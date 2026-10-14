@@ -44,7 +44,7 @@ To install **single-window** from MELPA:
 
 To install *single-window* with `straight.el`:
 
-Step 1: It if hasn't already been done, [add the straight.el bootstrap code](https://github.com/radian-software/straight.el?tab=readme-ov-file#getting-started) to your init file.
+Step 1: If it hasn't already been done, [add the straight.el bootstrap code](https://github.com/radian-software/straight.el?tab=readme-ov-file#getting-started) to your init file.
 
 Step 2: Add the following code to the Emacs init file:
 ```emacs-lisp
